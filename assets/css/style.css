@@ -826,6 +826,18 @@ svg {
   padding: 1rem 0;
   box-shadow: var(--shadow);
 }
+/* ======================================================
+              SIGNATURE
+========================================================*/
+#bottom-right-content {
+  position: absolute;
+  width: 250px;
+  bottom: 0;
+  right: 0;
+  margin: 20px; /* Adjust the margin as needed */
+  padding: 10px;
+}
+
 
 /* ======================================================
               media tablet
